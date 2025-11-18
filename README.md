@@ -11,13 +11,13 @@
 3. [📁 Dataset Description](#-dataset-description)
 4. [🧠 Analysis & Insights](#-analysis--insights)
    - [A. Traffic Trends](#a-traffic-trends)
-   - [B. Channel Quality](#B-channel-quality)
-   - [C. Revenue by Source](#C-revenue-by-source)
-   - [D. Purchasers vs Non-Purchasers](#D-purchasers-vs-non-purchasers)
-   - [E. Transaction Behavior](#E-transaction-behavior)
-   - [F. Revenue Efficiency](#F-revenue-efficiency)
-   - [G. Cross-Sell Behavior](#G-cross-sell-behavior)
-   - [H. Funnel Conversion](#H-funnel-conversion)
+   - [B. Channel Quality](#b-channel-quality)
+   - [C. Revenue by Source](#c-revenue-by-source)
+   - [D. Purchasers vs Non-Purchasers](#d-purchasers-vs-non-purchasers)
+   - [E. Transaction Behavior](#e-transaction-behavior)
+   - [F. Revenue Efficiency](#f-revenue-efficiency)
+   - [G. Cross-Sell Behavior](#g-cross-sell-behavior)
+   - [H. Funnel Conversion](#h-funnel-conversion)
 5. [📊 Key Findings Summary](#-key-findings-summary)
 6. [🧭 Recommendations](#-recommendations)
 7. [🛠️ Tools & Skills Demonstrated](#️-tools--skills-demonstrated)
@@ -100,7 +100,7 @@ Date Ranges Used:
 
 ## 🧠 Analysis & Insights
 
-### **🔎 A Traffic Trends (Jan–Mar 2017)**  
+### **🔎 A. Traffic Trends (Jan–Mar 2017)**  
 ```sql
 SELECT 
   FORMAT_DATE('%Y%m', PARSE_DATE('%Y%m%d', date)) AS month,
