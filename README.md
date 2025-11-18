@@ -1,4 +1,5 @@
 # 🧠 User Behavior & Purchase Journey Analysis | E-commerce | SQL (BigQuery)
+<img width="1564" height="868" alt="image" src="https://github.com/user-attachments/assets/43f522a5-9d7a-4a3e-b120-d0f8f15f6a06" />
 
 **Author:** Huong Le  | 
 **Date:** February 2025  |
