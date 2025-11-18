@@ -23,7 +23,7 @@
 7. [🛠️ Tools & Skills Demonstrated](#️-tools--skills-demonstrated)
 ---
 
-## 📌 1. Background & Project Overview
+## 📌 Background & Project Overview
 
 Modern e-commerce platforms rely heavily on **user behavior analytics** to improve conversion, optimize marketing spend, and understand how customers move through the digital purchase journey.
 
@@ -40,7 +40,7 @@ The objective is to demonstrate **end-to-end analytics thinking** — from busin
 
 ---
 
-## ❓ 2. Business Questions
+## ❓ Business Questions
 
 This analysis is built around eight real-world e-commerce questions:
 
