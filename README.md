@@ -21,7 +21,6 @@
 5. [📊 Key Findings Summary](#-key-findings-summary)
 6. [🧭 Recommendations](#-recommendations)
 7. [🛠️ Tools & Skills Demonstrated](#️-tools--skills-demonstrated)
-8. [▶️ How to Use This Repository](#️-how-to-use-this-repository)
 ---
 
 ## 📌 1. Background & Project Overview
