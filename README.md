@@ -70,7 +70,7 @@ This analysis is built around eight real-world e-commerce questions:
 
 ---
 
-## 📁 3. Dataset Description
+## 📁 Dataset Description
 
 The project uses the public dataset:
 
@@ -98,7 +98,7 @@ Date Ranges Used:
 
 ---
 
-## 🧠 4. Analysis & Insights
+## 🧠 Analysis & Insights
 
 ### **🔎 A. Traffic Trends (Jan–Mar 2017)**  
 ```sql
@@ -332,7 +332,7 @@ Funnel improved each month → users increasingly completing purchases.
 
 ---
 
-## 📊 5. Key Findings Summary
+## 📊 Key Findings Summary
 
 - **Traffic increased** and conversion efficiency improved by March 2017.  
 - **Google & direct traffic** are top-performing channels with lower bounce rates.  
@@ -344,7 +344,7 @@ Funnel improved each month → users increasingly completing purchases.
 
 ---
 
-## 🧭 6. Recommendations
+## 🧭 Recommendations
 
 ### **1. Improve Product Discovery**
 - Non-purchasers browse heavily → Simplify navigation & highlight bestsellers.
@@ -363,7 +363,7 @@ Funnel improved each month → users increasingly completing purchases.
 
 ---
 
-## 🛠️ 7. Tools & Skills Demonstrated
+## 🛠️ Tools & Skills Demonstrated
 
 - SQL (BigQuery Standard SQL)  
 - E-commerce analytics  
