@@ -10,7 +10,7 @@
 2. [❓ Business Questions](#-business-questions)
 3. [📁 Dataset Description](#-dataset-description)
 4. [🧠 Analysis & Insights](#-analysis--insights)
-   - [A. Traffic Trends](#a.-traffic-trends)
+   - [A. Traffic Trends](#a-traffic-trends)
    - [B. Channel Quality](#B-channel-quality)
    - [C. Revenue by Source](#C-revenue-by-source)
    - [D. Purchasers vs Non-Purchasers](#D-purchasers-vs-non-purchasers)
@@ -100,7 +100,7 @@ Date Ranges Used:
 
 ## 🧠 Analysis & Insights
 
-### **🔎 A. Traffic Trends (Jan–Mar 2017)**  
+### **🔎 A Traffic Trends (Jan–Mar 2017)**  
 ```sql
 SELECT 
   FORMAT_DATE('%Y%m', PARSE_DATE('%Y%m%d', date)) AS month,
