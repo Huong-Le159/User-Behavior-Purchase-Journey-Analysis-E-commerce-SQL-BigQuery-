@@ -172,8 +172,6 @@ SELECT time_type, time, source, revenue
 FROM week_type
 ORDER BY revenue DESC;
 ```
-<img width="751" height="211" alt="image" src="https://github.com/user-attachments/assets/e578221d-7553-4272-838e-f33c8d50c4e1" />
-
 **Insight:**  
 - Weekly and monthly views reveal **revenue spikes** from search and direct channels.  
 - Some weekly peaks disappear in monthly aggregation → indicating **campaign bursts**. 
