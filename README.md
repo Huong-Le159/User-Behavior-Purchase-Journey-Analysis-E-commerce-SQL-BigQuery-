@@ -1,7 +1,7 @@
 # 🧠 User Behavior & Purchase Journey Analysis | E-commerce | SQL (BigQuery)
 
-**Author:** Huong Le  
-**Date:** February 2025  
+**Author:** Huong Le  | 
+**Date:** February 2025  |
 **Tools Used:** BigQuery (Google Standard SQL)  
 
 ## Table of Contents
